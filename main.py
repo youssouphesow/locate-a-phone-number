@@ -19,7 +19,7 @@ from opencage.geocoder import OpenCageGeocode
 # 1. Vous devez vous rendre sur le opencagedata.com
 # 2. Créer votre compte ensuite copier le clé de l'api
 # 3. Coler ça au niveau de key = ''
-key = 'e7eac780bee44ebca58aacaf2cbc6d39'
+key = ''
 
 geocoder = OpenCageGeocode(key)
 query = str(location)
