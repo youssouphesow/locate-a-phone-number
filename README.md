@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <h3 align="left">Contactez-moi :</h3>
+  <h3 align="left">Retrouvezez-moi sur les réseaux sociaux :</h3>
   <a href="https://twitter.com/youssouphs" target="blank">
     <img src="https://img.shields.io/twitter/follow/youssouphs?logo=twitter&style=for-the-badge" alt="youssouphs" />
   </a>
